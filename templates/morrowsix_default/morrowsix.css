@@ -112,6 +112,7 @@ a {
 }
 .footer__right a {
   color: #2e3440;
+  text-decoration: none!important; /*outlook hack */
   text-decoration: none;
 }
 .links {
