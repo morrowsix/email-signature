@@ -1,0 +1,130 @@
+/*
+ * =====================================
+ * 1. Common styles for general table things.
+ * =====================================
+ */
+/* img {
+  max-width: 100%;
+} */
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+}
+
+tr {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.rbcc {
+  /*
+   * rbcc -> reset - border - cellspacing - cellpadding
+   *
+   * Resets table attributes.
+   */
+  border: 0;
+  cellpadding: 0;
+  cellspacing: 0;
+}
+
+.background {
+  width: 100%;
+}
+
+.main {
+  width: 100%;
+  background-color: #ffffff;
+  padding-top: 15px;
+}
+
+.sp {
+  /* Separator tr; props are actually contained by it's inner element atm. */
+}
+
+.sp__inner {
+  padding: 15px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #0fade1;
+}
+
+/*
+ * =================
+ * 2. Content styles.
+ * ==================
+ */
+.main__welcome {
+  color: #000;
+  padding: 10px 30px 0 30px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.main__content {
+  color: #000;
+  padding: 10px 30px 0 30px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+/*
+ * ================
+ * 3. Footer styles.
+ * ================
+ */
+.footer {
+  /* background-color: #3b4252; */
+  color: #2e3440;
+  /* border-top: 4px solid #d8dee9; */
+}
+
+.footer a {
+  color: #4c566a;
+}
+
+.footer__main {
+  /* NB: This prop fucks up the width on OS X, needs to be *JUST* attribute. */
+  width: 100%;
+}
+.footer__right {
+  width: 90px;
+  padding: 20px 0px 20px 15px;
+}
+.footer__right img {
+  width:90px;
+  display: block;
+}
+
+
+.footer__left {
+  padding: 20px 30px 20px 0;
+}
+
+.footer__left td {
+  color: #2e3440;
+}
+.footer__left a {
+  color: #2e3440;
+}
+.links {
+  margin-top:10px;
+  line-height:15px;
+}
+span.name {
+  font-weight: bold;
+}
+.footer__left a, 
+span.position,
+span.company {
+  font-size: 12px;
+}
+span.position {
+  font-weight: bold;
+}
+

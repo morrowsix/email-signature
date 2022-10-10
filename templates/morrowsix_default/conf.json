@@ -1,0 +1,93 @@
+[
+{
+  "id": "matthias",
+  "signature": "Beste Grüße,",
+  "name": "Matthias Hollerbach",
+  "position": "Geschäftsführer",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "hollerbach@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+},
+{
+  "id": "nico",
+  "signature": "Beste Grüße,",
+  "name": "Nico Rohpeter",
+  "position": "Geschäftsführer",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "rohpeter@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+},
+{
+  "id": "thomas",
+  "signature": "Beste Grüße,",
+  "name": "Thomas Derksen",
+  "position": "Webentwicklung",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "derksen@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+},
+{
+  "id": "chengjie",
+  "signature": "Beste Grüße,",
+  "name": "Chengjie Xu",
+  "position": "Grafikdesign",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "xu@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+},
+{
+  "id": "beatrix",
+  "signature": "Beste Grüße,",
+  "name": "Beatrix Westphal",
+  "position": "Personalwesen",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "westphal@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+},
+{
+  "id": "fjolla",
+  "signature": "Beste Grüße,",
+  "name": "Fjolla Statovci",
+  "position": "Buchhaltung",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "statovci@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+},
+{
+  "id": "julian",
+  "signature": "Beste Grüße,",
+  "name": "Julian Merz",
+  "position": "Vertrieb",
+  "company": "morrow six GbR",
+  "phone": "0561 82500950",
+  "email": "merz@morrowsix.de",
+  "logoUrl": "/assets/logo_rounded_on_polarwhite_resized.png",
+  "logoAlt": "morrow six logo",
+  "websiteUrl": "https://www.morrowsix.de",
+  "websiteTitle": "www.morrowsix.de"
+}
+]
