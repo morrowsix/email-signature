@@ -98,6 +98,7 @@ a {
 }
 .footer__left img {
   width:90px;
+  height:90px;
   display: block;
 }
 
@@ -111,6 +112,7 @@ a {
 }
 .footer__right a {
   color: #2e3440;
+  text-decoration: none;
 }
 .links {
   margin-top:10px;
