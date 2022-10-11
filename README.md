@@ -1,3 +1,7 @@
+# Manual Steps after build
+
+replace `text-decoration: none;` with `text-decoration: none !important;text-decoration: none;`
+
 # Responsive HTML email signature(s)
 
 [![npm](https://img.shields.io/npm/v/responsive-html-email-signature.svg)](https://www.npmjs.com/package/responsive-html-email-signature)
